@@ -3,7 +3,7 @@
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot">
+  <a href="https://github.com/RJSobujKhan/VCsMusicBot">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -19,12 +19,12 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot/fork">
-    <img src="https://img.shields.io/github/forks/LushaiMusic/VCsMusicBot?label=Fork&style=social">
+  <a href="https://github.com/RJSobujKhan/VCsMusicBot/fork">
+    <img src="https://img.shields.io/github/forks/RJSobujKhan/VCsMusicBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/LushaiMusic/GroupMusicBot">
-    <img src="https://img.shields.io/github/stars/LushaiMusic/VCsMusicBot?style=social">
+  <a href="https://github.com/RJSobujKhan/GroupMusicBot">
+    <img src="https://img.shields.io/github/stars/RJSobujKhan/VCsMusicBot?style=social">
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Click the below button to watch the video tutorial on deploying
 
 ### Deploy To Heroku 📡</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/LushaiMusic/VCsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/RJSobujKhan/VCsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 ###  GET STRING SESSION FROM REPL RUN
 
@@ -46,7 +46,7 @@ Click the below button to watch the video tutorial on deploying
 ### Deploy to VPS 🏃
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/LushaiMusic/VCsMusicBot
+$ git clone https://github.com/RJSobujKhan/VCsMusicBot
 $ cd VCsMusicBot
 # Upgrade sources
 # Install All Requirements 
@@ -115,7 +115,7 @@ $ python3 -m VCsMusicBot
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@VCsMusicPlayer](https://t.me/VCsMusicPlayer) as Channel admin with full perms
+ 3. Add [@PremiumAppsAndModAppsFreeChannel](https://t.me/PremiumAppsAndModAppsFreeChannel) as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
@@ -131,5 +131,5 @@ If you donlt like to play in linked channel:
 
 ### Credits
 #### Special Credits
-- [Zaute-Km](https://github.com/Zaute-Km): LushaiMusic Developer
-- [Rojserbest](http://github.com/rojserbest): Callsmusic Developer
+- [RJ Sobuj Khan](https://github.com/RJSobujKhan): LushaiMusic Developer
+- [RJSobujKhan](http://github.com/RJSobujKhan): Callsmusic Developer
